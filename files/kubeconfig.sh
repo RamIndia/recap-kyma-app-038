@@ -1,4 +1,4 @@
-ns=participant-<id>
+ns=participant-038
 API_SERVER_URL="https://api.c-4e4de85.stage.kyma.ondemand.com"
 
 SECRET_NAME=tutorial-service-account
